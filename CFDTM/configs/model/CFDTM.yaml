@@ -1,0 +1,14 @@
+training:
+    learning_rate: 0.002
+    batch_size: 200
+    num_epoch: 800
+
+model:
+    en1_units: 100
+    dropout: 0.
+    beta_temp: 1.0
+    temperature: 0.1
+    weight_neg: 1.0e+7
+    weight_pos: 1.0e+1
+    weight_UWE: 1.0e+3
+    neg_topk: 15
