@@ -3,6 +3,8 @@
 
 # Code for Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion (ACL 2024 Findings)
 
+[PDF](https://arxiv.org/abs/2405.17957)
+
 ## 1. Prepare environment
 
     python==3.8.0
@@ -34,6 +36,6 @@ If you want to use our code, please cite as
     @article{wu2024dynamic,
         title={Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion},
         author={Wu, Xiaobao and Dong, Xinshuai and Pan, Liangming and Nguyen, Thong and Luu, Anh Tuan},
-        journal={arXiv preprint},
+        journal={arXiv preprint arXiv:2405.17957},
         year={2024}
     }
