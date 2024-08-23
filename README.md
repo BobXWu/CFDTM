@@ -33,9 +33,15 @@ Other datasets are available in [TopMost](https://github.com/BobXWu/TopMost/tree
 
 If you want to use our code, please cite as
 
-    @article{wu2024dynamic,
-        title={Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion},
-        author={Wu, Xiaobao and Dong, Xinshuai and Pan, Liangming and Nguyen, Thong and Luu, Anh Tuan},
-        journal={arXiv preprint arXiv:2405.17957},
-        year={2024}
+    @inproceedings{wu2024dynamic,
+        title = "Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion",
+        author = "Wu, Xiaobao  and Dong, Xinshuai  and Pan, Liangming  and Nguyen, Thong  and Luu, Anh Tuan",
+        editor = "Ku, Lun-Wei  and Martins, Andre  and Srikumar, Vivek",
+        booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+        month = aug,
+        year = "2024",
+        address = "Bangkok, Thailand and virtual meeting",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2024.findings-acl.183",
+        pages = "3088--3105"
     }
